@@ -1,0 +1,24 @@
+.col
+{
+    background-color: #27354e;
+    color: black;
+}
+
+.nav-link{
+    color: black;
+    font-family: cursive;
+    font-size: larger;
+    transition: color 1s ease-out 100ms;
+}
+
+.nav-link:hover{
+    color: white;
+    font-family: cursive;
+    font-size: larger;
+    
+}
+
+.btn
+{
+    background-color: lightslategray;
+}

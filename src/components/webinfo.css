@@ -1,0 +1,37 @@
+
+.card-deck
+{
+    width: auto;
+    height: 70%;
+}
+
+.card
+{
+    background-color: rgb(31, 32, 31);
+    border-radius: 2rem;
+    color: lightgreen;
+}
+
+.reactt
+{
+    width: 74%;
+    border-radius: 40rem;
+}
+
+.boldd
+{
+    color: lightsalmon;
+}
+
+.weath
+{
+    width:39%;
+    border-radius: 40rem;
+}
+
+.bgin
+{
+    background-color: rgb(31, 32, 31);
+    color: lightslategray;
+    border-radius: 3rem;
+}
